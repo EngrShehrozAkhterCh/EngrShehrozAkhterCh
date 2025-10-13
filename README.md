@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Multisim-0033A0?style=for-the-badge&logo=ni&logoColor=white" />
   <img src="https://img.shields.io/badge/Proteus-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  
 </p>
 
 ---
