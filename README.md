@@ -1,6 +1,6 @@
 ## Hi there 👋
  <h1 align="center">Hi 👋, I'm M Shehroz Akhter</h1>
-<h3 align="center">An Electrical Engineering student passionate about AI, ML, Embedded Systems, and Intelligent Software</h3>
+<h3 align="center">An Electrical Engineering student passionate about AI, ML,Vlsi/Chip Design, Embedded Systems, and Intelligent Software</h3>
 
 ---
 
