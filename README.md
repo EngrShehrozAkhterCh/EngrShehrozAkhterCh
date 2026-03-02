@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
@@ -30,11 +30,17 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-  <!-- Engineering Tools -->
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multisim-0033A0?style=for-the-badge&logo=ni&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proteus-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  
+ <!-- Engineering Tools -->
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Multisim-0033A0?style=for-the-badge&logo=ni&logoColor=white" />
+<img src="https://img.shields.io/badge/Proteus-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+
+<!-- Added Tools -->
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" />
+<img src="https://img.shields.io/badge/NI%20ELVIS-0033A0?style=for-the-badge&logo=ni&logoColor=white" />
+<img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black" />
+<img src="https://img.shields.io/badge/Tinkercad-F7931E?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
 ---
