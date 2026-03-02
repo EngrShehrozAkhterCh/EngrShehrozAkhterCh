@@ -48,10 +48,9 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngrShehrozAkhterCh&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngrShehrozAkhterCh&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EngrShehrozAkhterCh&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=EngrShehrozAkhterCh&theme=dark&hide_border=true" />
 </p>
-
 ---
 
 ### ⚡ Fun Fact
