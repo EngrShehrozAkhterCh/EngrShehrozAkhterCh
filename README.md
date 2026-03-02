@@ -41,6 +41,10 @@
 <img src="https://img.shields.io/badge/NI%20ELVIS-0033A0?style=for-the-badge&logo=ni&logoColor=white" />
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black" />
 <img src="https://img.shields.io/badge/Tinkercad-F7931E?style=for-the-badge&logo=autodesk&logoColor=white" />
+<!-- New Additions -->
+<img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white" />
+<img src="https://img.shields.io/badge/Altium-FF0000?style=for-the-badge&logo=altium&logoColor=white" />
+<img src="https://img.shields.io/badge/ChipDesign-0A74DA?style=for-the-badge&logo=none&logoColor=white" />
 </p>
 
 ---
